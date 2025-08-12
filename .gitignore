@@ -5,3 +5,6 @@ rotation
 *.c
 *.so
 build
+hilinkapi.egg-info/
+dist/
+.coverage
