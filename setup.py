@@ -17,7 +17,7 @@ requirements = [
 
 setup(
     name="hilinkapi",
-    version="2.0.0",
+    version="0.1.0",
     author="HiLink API Contributors",
     author_email="",
     description="Modern Python API for Huawei HiLink modems",
