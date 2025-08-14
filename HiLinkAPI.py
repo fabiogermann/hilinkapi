@@ -27,6 +27,11 @@ Example:
 Author: HiLink API Contributors
 License: MIT
 """
+
+__version__ = "0.1.0"
+__author__ = "HiLink API Contributors"
+__license__ = "MIT"
+
 import logging
 from abc import ABC, abstractmethod
 from typing import Optional, Dict, Any, List, Tuple
